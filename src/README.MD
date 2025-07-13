@@ -1,3 +1,4 @@
+
 # E-Commerce Frontend UI
 
 A clean and responsive E-Commerce frontend built using **React** and **React Router**.
@@ -14,22 +15,3 @@ A clean and responsive E-Commerce frontend built using **React** and **React Rou
 - React Router DOM
 - CSS3
 - JavaScript (ES6)
-
-src/
-├── components/
-│ ├── Navbar.jsx
-│ ├── Footer.jsx
-│ └── ProductCard.jsx
-├── data/
-│ └── products.js
-├── pages/
-│ ├── Home.jsx
-│ ├── ProductList.jsx
-│ ├── ProductDetail.jsx
-│ └── Cart.jsx
-├── App.jsx
-├── index.jsx
-└── index.css
-
-
----
